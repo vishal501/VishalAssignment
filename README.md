@@ -5,7 +5,7 @@ This project demonstrates a simple Android application developed in Kotlin. The 
 
 ## Screenshots
 1. **Home Personal**
-   ![Home Screen] <img src="https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058651.jpg" alt="Home Screen" width="300">
+   ![Home Screen] (<img src="https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058651.jpg" alt="Home Screen" width="300">)
    
 2. **Services**
    ![Feature 1](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058652.jpg alt="Home Screen" width="300")
