@@ -5,19 +5,19 @@ This project demonstrates a simple Android application developed in Kotlin. The 
 
 ## Screenshots
 1. **Home Personal**
-   ![Home Screen](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058651.jpg)
+   ![Home Screen](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058651.jpg alt="Home Screen" width="300")
    
 2. **Services**
-   ![Feature 1](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058652.jpg)
+   ![Feature 1](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058652.jpg alt="Home Screen" width="300")
    
 3. **Business**
-   ![Feature 2](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058653.jpg)
+   ![Feature 2](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058653.jpg alt="Home Screen" width="300")
    
 4. **Refine**
-   ![Settings](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058654.jpg)
+   ![Settings](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058654.jpg alt="Home Screen" width="300")
 
 ## Video
-[Watch the video](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058650.mp4)
+[Watch the video](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058650.mp4 alt="Home Screen" width="300")
 
 ## Prerequisites
 - Android Studio
