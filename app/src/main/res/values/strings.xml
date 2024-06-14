@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VishalSinghAssignment</string>
+    <string name="profile_score_50">Profile Score - 50%</string>
+    <string name="business">Business |</string>
+    <string name="coffee">Coffee |</string>
+    <string name="frienship">Frienship</string>
+    <string name="hi_community_i_am_open_to_new_connections">Hi community! I am open to new connections \'😊\'</string>
+    <string name="i_have_1_year_experience">I have 1 year experience...</string>
+    <string name="invite">+ INVITE</string>
+    <string name="vishal_singh">Vishal singh</string>
+    <string name="noida_testing">Noida | Testing</string>
+    <string name="within_500_600_m">Within 500-600 m</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="refine">Refine</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="friendship">Friendship</string>
+    <string name="movies">Movies</string>
+</resources>
