@@ -4,16 +4,16 @@
 This project demonstrates a simple Android application developed in Kotlin. The app performs [describe main functionality].
 
 ## Screenshots
-1. **Home Screen**
+1. **Home Personal**
    ![Home Screen](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058651.jpg)
    
-2. **Feature 1 Demonstration**
+2. **Services**
    ![Feature 1](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058652.jpg)
    
-3. **Feature 2 Demonstration**
+3. **Business**
    ![Feature 2](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058653.jpg)
    
-4. **Settings Screen**
+4. **Refine**
    ![Settings](https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058654.jpg)
 
 ## Video
@@ -28,7 +28,7 @@ This project demonstrates a simple Android application developed in Kotlin. The 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/vishal501/VishalAssignment.git
     cd your-repo-name
     ```
 
