@@ -5,19 +5,15 @@ This project demonstrates a simple Android application developed in Kotlin. The 
 
 ## Screenshots
 1. **Home Personal**
-   ![Home Screen]
    <img src="https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058651.jpg" alt="Home Screen" width="300">
    
 3. **Services**
-   ![Feature 1]
    <img src="https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058652.jpg" alt="Home Screen" width="300">
    
 5. **Business**
-   ![Feature 2]
    <img src="https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058653.jpg" alt="Home Screen" width="300">
    
 7. **Refine**
-   ![Settings]
    <img src="https://github.com/vishal501/VishalAssignment/blob/main/Media/1000058654.jpg" alt="Home Screen" width="300">
 
 ## Video
